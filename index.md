@@ -102,3 +102,85 @@ If you want, I can turn this into a 5-slide deck or a 1-page brief with data foo
 [24]: https://www.oecd.org/en/publications/increasing-development-finance-efforts-to-scale-private-finance-mobilised-and-its-impact_345b768b-en/full-report/component-2.html?utm_source=chatgpt.com "Increasing development finance efforts to scale private ..."
 [25]: https://ppp.worldbank.org/sites/default/files/2025-06/World%20Bank%20Group%20Approaches%20to%20Mobilize%20Private%20Capital%20for%20Development%20-%20An%20Independent%20Evaluation.pdf?utm_source=chatgpt.com "World Bank Group Approaches to Mobilize Private Capital ..."
 [26]: https://www.reuters.com/world/africa/kenya-says-japan-will-extend-169-million-samurai-financing-2025-08-21/?utm_source=chatgpt.com "Kenya says Japan will extend $169 million in Samurai financing"
+
+--- 
+
+# Slide Deck
+
+# Five-Slide Deck: Reimagining National Development Banks in Uganda & East Africa
+
+---
+
+## Slide 1 — Opening Frame
+
+**Reimagining National Development Banks (NDBs)**
+
+* Why now: Aid is tightening → shift toward markets & risk-sharing.
+* NDBs’ unique role: Bankable project origination, private capital crowd-in, mission focus.
+* Uganda’s moment: NDP IV (2025/26–2029/30) → industrialization, jobs, infrastructure.
+* UDB = lead arranger for inclusive transformation.
+
+---
+
+## Slide 2 — Uganda’s Progress
+
+**Uganda Development Bank (UDB)**
+
+* 55,553 jobs created/maintained in 2024 (+7.2% y/y).
+* UGX 388.7bn disbursed; UGX 454bn approved (170+ enterprises).
+* 50% portfolio in industrialization (agro-processing, manufacturing).
+* Auditor General: Unmodified opinion (Apr 2025) → governance strength.
+* Leadership: UDB MD Dr. Ojangole elected AADFI Chair (June 2025).
+* Constraint: Pipeline readiness → need for project preparation facilities.
+
+---
+
+## Slide 3 — Regional Lessons
+
+**East African Peers**
+
+* **Rwanda (BRD/Ireme Invest):** Green facility = credit + project prep.
+* **Tanzania (TADB):** Profits + record dividend; value-chain model.
+* **Kenya (KDC/AGF):** \$160m Green Investment Fund; \$500m AGF-Equity guarantee unlocking \$1bn for MSMEs.
+* **Regional DFIs:** TDB co-financing clean energy (\~\$300m WB facility); EADB convenings for cross-border deal flow.
+
+---
+
+## Slide 4 — Instruments & Enablers
+
+**Key Instruments**
+
+1. Partial credit guarantees (women, youth, green MSMEs).
+2. Blended finance aligned to NDP IV priorities.
+3. Local-currency mobilization (LCY guarantees, bonds, sukuk).
+4. Project preparation facilities at scale.
+5. Selective securitization/hybrid capital.
+
+**Policy Enablers**
+
+* Green taxonomy (urgent).
+* Program-based budgeting alignment (PIAPs, NBFP).
+* Governance & debt sustainability safeguards.
+
+---
+
+## Slide 5 — Action & Soundbites
+
+**Concrete Asks**
+
+* Mandate a Uganda Green Investment Facility (taxonomy-aligned).
+* Approve multi-year Project Preparation Facility (PPF).
+* Scale MSME/green guarantees (Centenary/AGF model).
+* Adopt results scorecard: jobs, value-added, FX, taxes, emissions.
+
+**Discussion Prompts**
+
+* Which guarantee structure would most accelerate agro-industrial parks?
+* How to sequence PPF → guarantees → refinance to avoid crowding out?
+* What minimum taxonomy guidance must NPA publish in 2025?
+
+**Soundbites**
+
+* “From grants to guarantees: Uganda’s story will be written in LCY pipelines, not PDF concept notes.”
+* “Bankability is built, not found—PPFs are the factory floor.”
+* “Inclusive transformation is a balance sheet question.”
