@@ -1,3 +1,6 @@
+# Quick Navigation
+- [📑 Table of Contents](#table-of-contents)
+  
 # GPT-5
 - [Presentation Mode](https://ukb-pyro.github.io/pam-gpt/)
 
