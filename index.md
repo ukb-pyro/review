@@ -1,3 +1,81 @@
+# Sun Aug 24
+# Five-Slide Deck: Reimagining National Development Banks in Africa
+
+---
+
+## Slide 1 — Setting the Stage: Dwindling Funds
+
+**Shared African Challenge**
+
+* Traditional sources are shrinking:
+
+  * **Taxes**: Narrow bases, weak compliance.
+  * **Borrowing (Bretton Woods)**: IMF/World Bank concessional funds (2%) no longer sufficient.
+  * **Emerging Partners (China, Gulf, etc.)**: Slowing disbursements & shifting priorities.
+* **Concessional aid is tightening**, pushing African public lenders toward markets & risk-sharing.
+* Call to action: **Reimagine NDBs as architects of inclusive, sustainable transformation.**
+
+---
+
+## Slide 2 — Alternative Sources of Capital
+
+**Beyond the Old Model**
+
+* **Domestic Resource Mobilization**: Broaden tax bases, reduce leakages.
+* **Capital Markets**: Green bonds, sukuk, local-currency instruments.
+* **Regional DFIs**: TDB, AfDB, EADB co-financing and syndications.
+* **Private Capital Crowding-In**: Guarantees, blended finance structures.
+* Lesson: Concessional + market instruments must be **layered, not siloed.**
+
+---
+
+## Slide 3 — Leveraging Innovation (Favorable vs. Commercial Terms)
+
+**Innovative Instruments**
+
+* **Partial Credit Guarantees**: Share risk, unlock MSME/green lending.
+* **Blended Finance**: Mix concessional funds with private money.
+* **Project Preparation Facilities (PPFs)**: Build bankable pipelines.
+* **Green Investment Facilities**: Align with taxonomies, climate goals.
+* **Local-Currency Mechanisms**: Hedge FX risk, lower cost of capital.
+* Core idea: **Access capital at favorable terms, not predatory commercial rates.**
+
+---
+
+## Slide 4 — Scaling National Development Banks
+
+**From Small to Systemic**
+
+* Institutional credibility: Governance, transparency, results reporting.
+* Scale through capitalization + sovereign guarantees.
+* Build **regional knowledge-sharing platforms** (peer NDBs in Rwanda, Tanzania, Kenya).
+* Measure inclusivity: **report medians, not just means** → reflect majority experience, not billionaire outliers.
+* Focus on jobs, domestic value-add, FX earnings, climate impact.
+
+---
+
+## Slide 5 — Strategic Partnerships & Knowledge Exchange
+
+**Inclusive & Sustainable Transformation**
+
+* **Cross-country lessons**: BRD (Rwanda), TADB (Tanzania), KDC (Kenya).
+* **Global Partnerships**: Bretton Woods, AfDB, AGF, IFC/MIGA.
+* **Regional Networks**: AADFI, EADB, TDB for syndications.
+* **Inclusivity**: Serve all, not just elites. Democratize access to capital.
+
+**Prompts for Panel**
+
+* How can NDBs jointly bargain for better terms with external financiers?
+* What partnerships can accelerate **inclusive** capital mobilization?
+* How do we ensure scaling NDBs doesn’t **crowd out** local private banks but strengthens them?
+
+**Soundbite**
+
+* “**Inclusive transformation is not for a few billionaires; it is for all Africans.**”
+
+
+# Fri Aug 22
+
 awesome—thanks for the letter. here’s a tight, first-pass set of talking points for Day 2’s session, scoped to Uganda & the East Africa region. (Session: “Reimagining National Development Banks as architects of inclusive and sustainable transformation,” Speke Resort Convention Centre, Kampala, Sept 1–2, 2025.)&#x20;
 
 # Opening frame (30–45 seconds)
