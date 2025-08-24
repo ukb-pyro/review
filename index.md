@@ -1,3 +1,6 @@
+# GPT-5
+- [Presentation Mode](https://ukb-pyro.github.io/pam-gpt/)
+
 # Claude 
 - [Plan](https://claude.ai/public/artifacts/7b5686a4-da0d-423b-a72c-9b93bcd79997)
 - [Implementation](https://ukb-pyro.github.io/pam-claude/)
