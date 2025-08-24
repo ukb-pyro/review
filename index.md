@@ -4,6 +4,8 @@
 # Grok-4
 ### Strong Critique of the Current Materials
 
+- [Grok style](https://ukb-pyro.github.io/pam-grok/)
+
 First off, hats off for pulling together a comprehensive prep package—it's evident GPT-5 has been a solid co-pilot here, weaving in data points, regional comparables, and metaphorical flair. The invitation letter from Dr. Patricia Ojangole (dated Aug 15, 2025) sets a high bar: it's formal, thematic ("Transforming Africa through National Development Finance Architecture"), and positions Pamela as a key voice in reimagining NDBs amid dwindling aid. It name-checks innovative instruments like guarantees, which your materials echo well. But as her assistants, we're aiming for a presentation that's not just informative but transformative—something that leaves 400+ high-level attendees (gov officials, bankers, private sector, civil society) buzzing with actionable urgency. Your current draft is solid groundwork, but it's got some structural, substantive, and stylistic gaps that could dilute impact. Let's dissect with a strong critique, then I'll push it to the next level with refined hierarchies, a revamped slide deck, and fresh elements to make it unforgettable.
 
 #### Key Critiques (Structured by Category for Clarity)
