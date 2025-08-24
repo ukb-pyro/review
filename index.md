@@ -1,3 +1,90 @@
+# Tree Metaphor
+
+# Five-Slide Deck: Reimagining National Development Banks in Africa (Tree Metaphor)
+
+---
+
+## Slide 1 — Earth, Seed & Roots: The Foundations
+
+**Shared African Challenge**
+
+* **Earth/Seed/Roots**: Traditional sources that once fed growth.
+
+  * Taxes: Narrow bases, compliance gaps.
+  * Bretton Woods concessional borrowing: IMF/World Bank funds at 2%.
+  * Emerging partners (China, Gulf): Slowing flows, shifting priorities.
+* These roots are **drying**, but still anchor the ecosystem.
+* The tree must seek new nutrients: **Reimagine NDBs as the root system for inclusive, sustainable growth.**
+
+---
+
+## Slide 2 — The Trunk: Stability & Alternative Sources
+
+**Strength and Structure**
+
+* Trunk = institutional backbone of NDBs.
+* Alternative sources of nourishment:
+
+  * **Domestic capital markets** (green bonds, sukuk, local-currency debt).
+  * **Regional DFIs** (TDB, AfDB, EADB co-financing).
+  * **Private capital** crowding-in through guarantees and risk-sharing.
+* Lesson: Without a strong trunk, the canopy cannot expand.
+
+---
+
+## Slide 3 — Branching: Innovation and Diversification
+
+**Exploring New Pathways**
+
+* Branching = recursive search for alternatives when one path is blocked.
+* Innovative instruments:
+
+  * Partial credit guarantees for MSMEs, women, and green sectors.
+  * Blended finance structures (layer concessional + private).
+  * Project Preparation Facilities to make ideas bankable.
+  * Local-currency mechanisms to hedge FX risk.
+* Each branch multiplies options → resilience.
+
+---
+
+## Slide 4 — Canopy & Twigs: Scaling & Inclusivity
+
+**Reaching Wider, Touching All**
+
+* Canopy = broad reach of NDBs into societies and sectors.
+* Scale through:
+
+  * Sovereign capitalization + guarantees.
+  * Knowledge-sharing platforms across Africa.
+  * Transparent governance, results reporting.
+* **Inclusivity**: Report medians vs. means → reflect majority, not billionaire outliers.
+* Outcome: Jobs, domestic value-add, FX earnings, climate resilience.
+
+---
+
+## Slide 5 — Fruits: Partnerships & Transformation
+
+**Harvesting Shared Growth**
+
+* Fruits = outcomes of collective effort and shared learning.
+* Strategic partnerships:
+
+  * Cross-country: BRD (Rwanda), TADB (Tanzania), KDC (Kenya).
+  * Regional networks: AADFI, EADB, TDB.
+  * Global: Bretton Woods, AfDB, AGF, IFC/MIGA.
+* Fruits must feed **all**, not just elites. Transformation is inclusive by design.
+
+**Prompts for Panel**
+
+* How do we ensure the tree grows stronger together, not as isolated trunks?
+* Which branch (instrument) should Africa prioritize now?
+* How do we nurture fruits that reach the many, not the few?
+
+**Soundbite**
+
+* “When one branch is blocked, intelligence is finding another—Africa’s NDBs must be the living tree of inclusive transformation.”
+
+
 # Sun Aug 24
 # Five-Slide Deck: Reimagining National Development Banks in Africa
 
