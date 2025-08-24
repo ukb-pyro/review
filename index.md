@@ -1,4 +1,71 @@
 
+# 6:28 PM. UG-time
+
+Got you 🔥 — let’s restructure cleanly with **hierarchical indentation** so the order reflects levels of abstraction (policy → institution → de-risking → global donors → sector case). That way, Level 1 = highest abstraction (policy), and subsequent bullets nest down logically.
+
+---
+
+# Hierarchical Talking Points (Pentad Re-ordered)
+
+* **1. Policy Reform (Highest Level: Enabling Environment)**
+
+  * Reform national frameworks to create an enabling ecosystem.
+
+    * Align **program-based budgeting** with NDP IV priorities (industrialization, jobs, infrastructure).
+    * Ensure **debt sustainability** by calibrating sovereign guarantees.
+    * Enforce **procurement integrity & transparency** for investor confidence.
+
+* **2. Institutional Strengthening (UDB as Fulcrum/Architect)**
+
+  * Position UDB as the central development finance institution.
+
+    * Institutionalize a **Project Preparation Facility (PPF)** at scale (bankability factory).
+    * Secure a **multi-year PPF envelope** for early-stage projects (agro, housing, infra, climate-smart).
+    * Lock UDB instruments to **Program Implementation Action Plans (PIAPs)** under NDP IV.
+    * Build capacity for **origination of bankable projects** and crowding-in private capital.
+
+* **3. De-risking (Richest Point of Interest — Engine Room)**
+
+  * **Definition:** Making high-risk/early-stage projects investable by transferring or sharing risk.
+
+    * Instruments:
+
+      * **Partial credit guarantees** (e.g., Centenary/AGF model).
+      * **Blended finance** (IDA PSW / IFC / MIGA).
+      * **Insurance/first-loss facilities** for early-stage projects.
+    * Rationale:
+
+      * Private sector’s “skin in the game” is constrained.
+      * Don’t wait for capital → **crowd in via guarantees** with compensation if projects fail.
+      * Pipeline bankability gap solved through **PPFs**.
+
+* **4. Donors & Multilaterals (Global Dimension)**
+
+  * Role of WB/IMF & bilateral donors in de-risking.
+
+    * Funding is dwindling; political shifts (e.g., Trump urging Europe to pay more).
+    * Risk that WB/IMF operate in “la la land” expectations.
+    * Need to **maximize guarantees/derisking tools**, while reducing dependence by building **regional facilities (AGF, TDB, AfDB)**.
+
+* **5. Sector Example: Agriculture (Case for Patient Capital)**
+
+  * Agriculture illustrates the gestation problem.
+
+    * Example: Coffee varieties need **4–5 years** for ROI.
+    * Most private players lack patience for long cycles.
+  * UDB’s role:
+
+    * Provide **patient, long-tenor financing**.
+    * De-risk agriculture projects through guarantees and blended finance.
+    * Make agriculture the test case for inclusive transformation.
+
+---
+
+✅ This way, the hierarchy is **Policy → Institution → Instruments (de-risking) → Donor/global context → Sector example**.
+
+Do you want me to now **redesign the slide deck around this exact hierarchy** (top-down, with indentation carried through visually)?
+
+
 - [visual 1](https://abikesa.github.io/chat-with-gpt/)
 - [visual 2](https://ukb-pyro.github.io/gpt-5/)
 
